@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a4e7a94-6b14-4d5b-8352-0c8f31a4a2b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>damage</find>
+      <find>TURN</find>
+      <find>GUARDS_IN_DECK</find>
+      <find>knapsack</find>
+      <find>value</find>
+      <find>file=</find>
+      <find>type</find>
+      <find>my_cards</find>
+      <find>opponent_cards</find>
+      <find>subset</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="175" />
+    <option name="y" value="-15" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="1dr1FXOjR1YTJ31C7tlSycfI4su" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a4e7a94-6b14-4d5b-8352-0c8f31a4a2b0" name="Default Changelist" comment="" />
+      <created>1544617756438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544617756438</updated>
+      <workItem from="1544617771993" duration="1214000" />
+      <workItem from="1544724292328" duration="867000" />
+      <workItem from="1544733669537" duration="745000" />
+      <workItem from="1544739393992" duration="2921000" />
+      <workItem from="1544773706463" duration="1225000" />
+      <workItem from="1544789694773" duration="1925000" />
+      <workItem from="1544804258224" duration="202000" />
+      <workItem from="1544881474939" duration="3489000" />
+      <workItem from="1544888648281" duration="1150000" />
+      <workItem from="1544896508999" duration="1895000" />
+      <workItem from="1544967515748" duration="2547000" />
+      <workItem from="1544976078760" duration="4349000" />
+      <workItem from="1544981764127" duration="61000" />
+      <workItem from="1545038926651" duration="2151000" />
+      <workItem from="1545046836621" duration="2212000" />
+      <workItem from="1545051371417" duration="636000" />
+      <workItem from="1545408971588" duration="316000" />
+      <workItem from="1545842703893" duration="56000" />
+      <workItem from="1545919675852" duration="6747000" />
+      <workItem from="1546534323029" duration="6488000" />
+      <workItem from="1546548011062" duration="1126000" />
+      <workItem from="1546559447644" duration="4000000" />
+      <workItem from="1546942168839" duration="368000" />
+      <workItem from="1546950678439" duration="3134000" />
+      <workItem from="1547037786994" duration="2939000" />
+      <workItem from="1547053937113" duration="592000" />
+      <workItem from="1547149247189" duration="4043000" />
+      <workItem from="1547154557414" duration="1530000" />
+      <workItem from="1547156925589" duration="3492000" />
+      <workItem from="1547188245951" duration="1887000" />
+      <workItem from="1547203363226" duration="2741000" />
+      <workItem from="1547304487139" duration="8714000" />
+      <workItem from="1547331153884" duration="13058000" />
+      <workItem from="1547378942536" duration="3578000" />
+      <workItem from="1547548698627" duration="529000" />
+      <workItem from="1559808055891" duration="171000" />
+      <workItem from="1560337073175" duration="64000" />
+      <workItem from="1593168300241" duration="140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593168363770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593168363770" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>[1, 2, 3, 4, 5, 6]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
